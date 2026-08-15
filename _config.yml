@@ -294,6 +294,8 @@ exclude:
   - docs/
 
 plugins:
+
+
   - jekyll-paginate
   - jekyll-sitemap
 
